@@ -1,6 +1,6 @@
 //remove the authorization to specific usage.
 
-const PURPOSE_URL = 'https://api.openai.com';
+const PURPOSE_URL = 'https://api.together.xyz';
 const ALLOWED_DOMAIN = 'yourdomain';
 
 addEventListener('fetch', event => {

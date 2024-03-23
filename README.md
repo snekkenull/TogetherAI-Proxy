@@ -1,6 +1,6 @@
-# OpenAI-Proxy-Forward
+# TogetherAI-Proxy
 
-A [Cloudflare](https://www.cloudflare.com) worker agent of the OpenAI API allows forwarding only for the specified domain name.
+A [Cloudflare](https://www.cloudflare.com) worker agent of the Together API allows forwarding only for the specified domain name.
 Cloudflare provides content delivery network (CDN) services, DDoS mitigation, Internet security and distributed domain name server (DNS) services, sitting between the visitor and the Cloudflare user's hosting provider, acting as a reverse proxy for websites.
 
 ## How to Use

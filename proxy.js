@@ -1,4 +1,4 @@
-const PURPOSE_URL = 'https://api.openai.com';
+const PURPOSE_URL = 'https://api.together.xyz';
 const ALLOWED_DOMAIN = 'youdomain';
 
 addEventListener('fetch', event => {
